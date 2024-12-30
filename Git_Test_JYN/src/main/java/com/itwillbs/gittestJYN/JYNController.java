@@ -1,5 +1,5 @@
 package com.itwillbs.gittestJYN;
 
 public class JYNController {
-	//hi ㅋㅋ 
+	//주석추가 - 정유나
 }
